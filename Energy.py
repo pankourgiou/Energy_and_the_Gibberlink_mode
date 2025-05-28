@@ -1,2 +1,2 @@
-#Setting (talking nice)= 1 we have:
-print("E = (talking nice)*mcmod2")
+#Setting (Gibberlink_mode)= 1 we have:
+print("E = (Gibberlink_mode)*mcmod2")
