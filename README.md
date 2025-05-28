@@ -1,1 +1,1 @@
-#Talking wrong means loosing energy for all the wrong ideas...so Greece/Greeks loose too much energy....on a very obvious manner...enjoy!
+#It's simpler than it looks/sounds like not very simple however..
